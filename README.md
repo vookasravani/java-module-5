@@ -8,7 +8,7 @@ NAME TO NUMBER
 READ FILE EXAMPLE
 <img width="1700" height="656" alt="image" src="https://github.com/user-attachments/assets/62c147f5-2f94-4962-b2e4-dc659ccbe780" />
 EMAIL VALIDATOR
-<img width="1773" height="638" alt="image" src="https://github.com/user-attachments/assets/ccf76a8e-d4a2-4df7-9790-79332761bfe5" />
+<img width="1692" height="663" alt="image" src="https://github.com/user-attachments/assets/e5775ddc-3ceb-4266-9e64-d54638eb2939" />
  program to divide two user‑entered numbers using try–catch for ArithmeticException
 <img width="1698" height="661" alt="image" src="https://github.com/user-attachments/assets/6dc41c09-e445-4f94-826a-fc546cbfa37f" />
 Create a Product class with productId and an Electronics subclass with warranty, overriding showDetails() using super()
