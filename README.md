@@ -2,7 +2,7 @@
 MODULUS EXAMPLE
 <img width="1702" height="666" alt="image" src="https://github.com/user-attachments/assets/6cd97362-8231-450e-ac6f-6174f1b92d9a" />
 DYNAMIC ARRAY EXAMPLE
-<img width="1632" height="643" alt="image" src="https://github.com/user-attachments/assets/03312045-773b-46cd-9fbc-ab44c97c5a59" />
+<img width="1692" height="663" alt="image" src="https://github.com/user-attachments/assets/58bce055-5ee8-45eb-9db8-e0f3300081c7" />
 NAME TO NUMBER
 <img width="1552" height="587" alt="image" src="https://github.com/user-attachments/assets/735f6151-9036-4ee0-80ac-9844e95951da" />
 READ FILE EXAMPLE
