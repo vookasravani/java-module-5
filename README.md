@@ -4,7 +4,7 @@ MODULUS EXAMPLE
 DYNAMIC ARRAY EXAMPLE
 <img width="1692" height="663" alt="image" src="https://github.com/user-attachments/assets/58bce055-5ee8-45eb-9db8-e0f3300081c7" />
 NAME TO NUMBER
-<img width="1552" height="587" alt="image" src="https://github.com/user-attachments/assets/735f6151-9036-4ee0-80ac-9844e95951da" />
+<img width="1702" height="652" alt="image" src="https://github.com/user-attachments/assets/48b4ef91-bafa-4a1b-b680-4a7f25cbbe22" />
 READ FILE EXAMPLE
 <img width="1727" height="653" alt="image" src="https://github.com/user-attachments/assets/8d23a905-b7e2-49ce-9fa4-98a79f63327c" />
 EMAIL VALIDATOR
