@@ -1,6 +1,6 @@
 # java-module-5
 MODULUS EXAMPLE
-<img width="1767" height="651" alt="image" src="https://github.com/user-attachments/assets/b186104e-937c-44b1-9802-d954ee1bdd4d" />
+<img width="1702" height="666" alt="image" src="https://github.com/user-attachments/assets/6cd97362-8231-450e-ac6f-6174f1b92d9a" />
 DYNAMIC ARRAY EXAMPLE
 <img width="1632" height="643" alt="image" src="https://github.com/user-attachments/assets/03312045-773b-46cd-9fbc-ab44c97c5a59" />
 NAME TO NUMBER
