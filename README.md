@@ -6,7 +6,7 @@ DYNAMIC ARRAY EXAMPLE
 NAME TO NUMBER
 <img width="1702" height="652" alt="image" src="https://github.com/user-attachments/assets/48b4ef91-bafa-4a1b-b680-4a7f25cbbe22" />
 READ FILE EXAMPLE
-<img width="1727" height="653" alt="image" src="https://github.com/user-attachments/assets/8d23a905-b7e2-49ce-9fa4-98a79f63327c" />
+<img width="1700" height="656" alt="image" src="https://github.com/user-attachments/assets/62c147f5-2f94-4962-b2e4-dc659ccbe780" />
 EMAIL VALIDATOR
 <img width="1773" height="638" alt="image" src="https://github.com/user-attachments/assets/ccf76a8e-d4a2-4df7-9790-79332761bfe5" />
  program to divide two user‑entered numbers using try–catch for ArithmeticException
